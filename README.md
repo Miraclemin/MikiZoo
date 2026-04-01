@@ -1,5 +1,7 @@
 # MikiZoo
 
+[中文版](README.zh.md)
+
 ![MikiZoo](pic.png)
 
 Tiny AI companions that live on your macOS screen. They walk, wander, think, and talk — powered by the AI CLI of your choice.
